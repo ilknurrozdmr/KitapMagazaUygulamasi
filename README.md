@@ -1,1 +1,1 @@
-.Net Core teknolojisi ile geliştirilmiş bir Kitap Mağazası BackEnd Uygulamasıdır.
+.Net Core teknolojisi ile geliştirilmiş bir BackEnd Kitap Mağazası Uygulamasıdır.
